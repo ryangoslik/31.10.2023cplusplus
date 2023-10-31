@@ -1,0 +1,14 @@
+mając dane.txt
+2
+4
+6
+8
+12
+14
+16
+18
+--------------
+Pobierz co drugą liczbę i wyznacz summę 2 liczb.
+pobierz co 3 liczbę i wyznacz sume liczb parzystych.
+pobierz pierwszą liczbą i ostatnią i wysnacz sumę
+--------------

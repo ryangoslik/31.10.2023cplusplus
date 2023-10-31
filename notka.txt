@@ -1,0 +1,9 @@
+temat tablice, obsługa plików tekstowych
+10
+20
+30
+40
+50
+wyznacz sumę liczb z pliku txt
+
+strumienie danych poczytać
